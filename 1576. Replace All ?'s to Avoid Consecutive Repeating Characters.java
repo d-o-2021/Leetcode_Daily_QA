@@ -1,3 +1,13 @@
+// Intuition
+// Generate unique alphabet using previous and next alphabet.
+
+// Approach
+// Used some simple encoding for generating new and unique alphabet that lies in range 0 to 25.
+
+// Complexity
+// Time complexity : O(Length of String s).
+// Space complexit : char array of length as of string s.
+
 //AFTER LOTS OF ATTEMPTS
 //logic is we were generating unique alphabet from both left and right alphabets 
 class Solution {
